@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/white_purple_pansies",
+    "particle": "gardenaganza:blocks/white_purple_pansies"
+  }
+}

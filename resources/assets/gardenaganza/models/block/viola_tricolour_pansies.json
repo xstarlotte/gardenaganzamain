@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/viola_tricolour_pansies",
+    "particle": "gardenaganza:blocks/viola_tricolour_pansies"
+  }
+}

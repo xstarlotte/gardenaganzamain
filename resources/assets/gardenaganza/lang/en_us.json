@@ -1,0 +1,60 @@
+{
+
+  "block.gardenaganza.yellow_daffodils": "Yellow Daffodils",
+  "block.gardenaganza.pink_daffodils": "Pink Daffodils",
+  "block.gardenaganza.mixed_daffodils": "Mixed Daffodils",
+
+  "block.gardenaganza.pink_peonies": "Pink Peonies",
+  "block.gardenaganza.white_capped_peonies": "White Capped Peonies",
+  "block.gardenaganza.mixed_peonies": "Mixed Peonies",
+
+  "block.gardenaganza.orange_african_daisies": "Orange African Daisies",
+  "block.gardenaganza.pink_african_daisies": "Pink African Daisies",
+  "block.gardenaganza.white_african_daisies": "White African Daisies",
+
+  "block.gardenaganza.pink_cosmos": "Pink Cosmos",
+  "block.gardenaganza.red_cosmos": "Red Cosmos",
+  "block.gardenaganza.mixed_cosmos": "Mixed Cosmos",
+
+  "block.gardenaganza.pink_lillies": "Pink Lillies",
+  "block.gardenaganza.purple_lillies": "Purple Lillies",
+  "block.gardenaganza.mixed_lillies": "Mixed Lillies",
+
+  "block.gardenaganza.white_purple_pansies": "White and Purple Pansies",
+  "block.gardenaganza.viola_tricolour_pansies": "Viola Tricolour Pansies",
+  "block.gardenaganza.sunrise_pansies": "Sunrise Pansies",
+
+  "block.gardenaganza.red_marigolds": "Red Marigolds",
+  "block.gardenaganza.orange_marigolds": "Orange Marigolds",
+  "block.gardenaganza.yellow_marigolds": "Yellow Marigolds",
+
+  "block.gardenaganza.potted_yellow_daffodils": "Potted Yellow Daffodils",
+  "block.gardenaganza.potted_pink_daffodils": "Potted Pink Daffodils",
+  "block.gardenaganza.potted_mixed_daffodils": "Potted Mixed Daffodils",
+
+  "block.gardenaganza.potted_pink_peonies": "Potted Pink Peonies",
+  "block.gardenaganza.potted_white_capped_peonies": "Potted White Capped Peonies",
+  "block.gardenaganza.potted_mixed_peonies": "Potted Mixed Peonies",
+
+  "block.gardenaganza.potted_orange_african_daisies": "Potted Orange African Daisies",
+  "block.gardenaganza.potted_pink_african_daisies": "Potted Pink African Daisies",
+  "block.gardenaganza.potted_white_african_daisies": "Potted White African Daisies",
+
+  "block.gardenaganza.potted_pink_cosmos": "Potted Pink Cosmos",
+  "block.gardenaganza.potted_red_cosmos": "Potted Red Cosmos",
+  "block.gardenaganza.potted_mixed_cosmos": "Potted Mixed Cosmos",
+
+  "block.gardenaganza.potted_pink_lillies": "Potted Pink Lillies",
+  "block.gardenaganza.potted_purple_lillies": "Potted Purple Lillies",
+  "block.gardenaganza.potted_mixed_lillies": "Potted Mixed Lillies",
+
+  "block.gardenaganza.potted_white_purple_pansies": "Potted White and Purple Pansies",
+  "block.gardenaganza.potted_viola_tricolour_pansies": "Potted Viola Tricolour Pansies",
+  "block.gardenaganza.potted_sunrise_pansies": "Potted Sunrise Pansies",
+
+  "block.gardenaganza.potted_red_marigolds": "Potted Red Marigolds",
+  "block.gardenaganza.potted_orange_marigolds": "Potted Orange Marigolds",
+  "block.gardenaganza.potted_yellow_marigolds": "Potted Yellow Marigolds",
+
+  "itemGroup.gardenaganza_flowers": "Flowers - Gardenaganza"
+}

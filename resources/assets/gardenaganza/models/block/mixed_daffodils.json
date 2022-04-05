@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/mixed_daffodils",
+    "particle": "gardenaganza:blocks/mixed_daffodils"
+  }
+}

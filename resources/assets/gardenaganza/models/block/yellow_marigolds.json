@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/yellow_marigolds",
+    "particle": "gardenaganza:blocks/yellow_marigolds"
+  }
+}

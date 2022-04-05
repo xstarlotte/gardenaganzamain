@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/white_capped_peonies",
+    "particle": "gardenaganza:blocks/white_capped_peonies"
+  }
+}

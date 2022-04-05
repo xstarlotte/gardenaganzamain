@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/pink_african_daisies",
+    "particle": "gardenaganza:blocks/pink_african_daisies"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "gardenaganza:blocks/mixed_cosmos",
+    "particle": "gardenaganza:blocks/mixed_cosmos"
+  }
+}
